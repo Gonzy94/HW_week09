@@ -14,8 +14,7 @@ Command-line application that dynamically generates a professional README.md fro
 - [Acknowledgments](#Acknowledgments)
 
 ## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+You must install Node on you local machine with the inquirer package in order to get the generator up and running
 
 ## Video link
 
@@ -53,6 +52,14 @@ Answer each question one by one
 ? What does the user need to know about using the repo? (Your answer)
 ? What does the user need to know about contributing to the repo? (Your answer)
 ```
+
+A message will pop up in the terminal once all questions have been answered
+
+```
+Generating README...
+```
+
+The README is complete
 
 ## Deployment
 
